@@ -2,7 +2,7 @@
 # RAG Q&A Chatbot 
 
 Introducing the RAG Chatbot: Retrieval-Augmented Generation an advanced Q&A tool designed to read and interact with multiple PDF files simultaneously. Powered by the Gemini Pro LLM model for robust natural language understanding, it utilizes FAISS Vector DB for efficient word embeddings. The user-friendly interface is built with Streamlit and hosted on Huggingface Space, making it easily accessible for seamless interactions with your documents. Explore and ask questions about your PDFs effortlessly .
-https://www.gifyu.com/image/SYhw6
+
 ## Demo
 
 ![Your GIF Description](https://s10.gifyu.com/images/SYhw6.gif)
