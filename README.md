@@ -1,5 +1,3 @@
-# RAG_Q-A_Chatbot
-
 
 # RAG Q&A Chatbot 
 
