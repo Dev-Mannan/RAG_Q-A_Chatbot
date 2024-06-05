@@ -7,8 +7,9 @@ https://www.gifyu.com/image/SYhw6
 
 ![Your GIF Description](https://s10.gifyu.com/images/SYhw6.gif)
 
-## Badges
+## Checkout
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+Link : https://huggingface.co/spaces/Mannan7/Chat_with_PDF
 
 ## Deployment
 
